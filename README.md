@@ -15,6 +15,13 @@ _Du kan ta bort all text som finns sedan tidigare_.
 
 Programkod ska se ut som exemplet nedan. Koden måste vara korrekt indenterad då den blir lättare att läsa vilket gör det lättare att hitta syntaktiska fel.
 
+För att lösa denna uppgift har koden i "/strings.xml" filen ändrats från
+[//]: # (<string name="app_name">Hello</string>)
+till
+[//]: # <string name="app_name">Hello World!</string>().
+Detta gör att appen byter namn samt att texten inuti appen ändras beroende på vad det är för string i koden.
+Bifogad är en bild som visar ändringar sida vid sida.
+
 ```
 function errorCallback(error) {
     switch(error.code) {
