@@ -33,7 +33,7 @@ function errorCallback(error) {
 
 Bilder läggs i samma mapp som markdown-filen.
 
-![](android.png)
+![](C:\Users\a22maxda\AndroidStudioProjects\mobileapp-programming-hello\Assign1_Phone.png)
 
 Läs gärna:
 
